@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Operando</string>
+    <string name="correctToast">Correcto!!!</string>
+    <string name="incorrectToast">Incorrecto</string>
+    <string name="responde">¿Cual es el resultado?</string>
+    <string name="revisar">Revisar</string>
+</resources>
