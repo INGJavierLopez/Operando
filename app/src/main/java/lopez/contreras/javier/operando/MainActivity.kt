@@ -10,7 +10,7 @@ private var flag: Boolean = true
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private val OperandoView: OperandoViewModel by viewModels()
-
+//Listo
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
